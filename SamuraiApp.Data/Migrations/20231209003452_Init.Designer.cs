@@ -12,7 +12,7 @@ using SamuraiApp.Data;
 namespace SamuraiApp.Data.Migrations
 {
     [DbContext(typeof(SamuraiContext))]
-    [Migration("20231208235258_Init")]
+    [Migration("20231209003452_Init")]
     partial class Init
     {
         /// <inheritdoc />
